@@ -1,0 +1,49 @@
+body{
+margin:-0.2%;
+border:black blue 2px;
+background-color:silver;
+}
+
+h1{
+ border:solid gold;
+ text-align:center;
+ text:bold;
+ background-color:#F0ED07;
+ border-radius:5px;
+ 
+}
+
+.label{
+ border:solid gold;
+ text-align:center;
+ display:block;
+ margin-bottom:-5%;
+ background-color:#F0ED07;
+ border-radius:5px;
+ text:bold;
+}
+ 
+.lista{
+ font-size:100%;
+ background-color:#EAE7ED;
+ border:solid black;
+border-radius:5px;
+text:bold;
+ 
+}
+
+.botao{
+ background-color:#4ABD1B;
+ color:black;
+ font-weight:bold;
+ border-radius:5px;
+ text-align:center;
+}
+
+.botao__modificador{
+ 
+background-color:#F00707;
+ color:black;
+ font-weight:bold;
+ 
+}
